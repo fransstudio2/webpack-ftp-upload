@@ -1,5 +1,6 @@
 # webpack-ftp-upload
 webpack plugin for ftp upload
+Edited by fransstudio2 to fit to Webpack 4
 
 ## Installation
 ```bash
